@@ -38,3 +38,4 @@
 | Pin for transactions                      	| Yes              	| Fail    	| High       	| Displays the message Error processing request. 	|
 | Pin change                                	| yes              	| pass    	| low        	| N/A                                            	|
 | Q.R code                                  	| yes              	| pass    	| medium     	| The code results returns message “not found”.  	|
+| Privacy & security                        	| yes              	| Fail    	| High       	| The page doesn't fetch when allowing phone book access and takes the user to setting, and when allowed from there doesn't refresh from the app to apply the changes. 	|
