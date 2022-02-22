@@ -10,7 +10,7 @@
 | Cashia app uninstall                            	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Order placement                                 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Wallet actions such as request, send and pay    	| No               	| Fail    	| High       	| App transactions in progress.                                                               	|
-| App interaction/Navigation stability            	| Yes              	| Pass    	| low        	| App doesn't crash upon several navigation                                                   	|
+| App interaction/Navigation stability            	| Yes              	| Pass    	| low        	| App doesn't crash upon several navigation rather it slows down                                                  	|
 | App location                                    	| Yes              	| Pass    	| Low        	| Setting location on won't affect the app                                                    	|
 | App Alert                                       	| Yes              	| pass    	| low        	| App requests permission for location like  an alert and also disabling won't affect the app 	|
 |  Search bar                                     	| Yes              	| pass    	| Medium        	| App gives results related to the search successfully tho it lucks autofocus as well as doesn't refresh from previous search history.                                       	|
