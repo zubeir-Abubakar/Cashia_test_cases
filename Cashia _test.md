@@ -23,7 +23,7 @@
 | Notifications                                   	| NO               	| Fail    	| High       	| The app gives an error upon notification entrance                                           	|
 | Validation                                	| Yes              	| pass    	| low        	| The amount validation both takes 2 decimal points as well as applies the mpesa limit. 	|
 | App login                                 	| yes              	| pass    	| low        	| N/A                                            	|
-| App logout                                	| yes              	| pass    	| low        	| A user is redirected to the login page.        	|
+| App logout                                	| yes              	| Fail    	| high        	| A user is redirected to the login page as well as token invalid message appears.        	|
 | Adding a product to wish list                            	| yes              	| pass    	| low        	| N/A                                            	|
 | Removing product from wish list (with the warning alert) 	| yes              	| pass    	| low        	| N/A                                            	|
 
@@ -33,7 +33,7 @@
 |-------------------------------------------	|------------------	|---------	|------------	|------------------------------------------------	|
 | Link sharing and network sharing          	| Yes              	| Pass    	| Low        	| N/A                                            	|
 | Internet Availability                     	| yes              	| Pass    	| Low        	| N/A                                            	|
-| Internet not available/offline from start 	| Yes              	| Pass    	| Low        	| N/A                                            	|
+| Internet not available/offline from start 	| Yes              	| Pass    	| medium        	| error processin your request message appears.                                            	|
 | Offline in the middle of using app        	| yes              	| Fail    	| High       	| Displays the message Error processing request. 	|
 | Pin for transactions                      	| Yes              	| Fail    	| High       	| Displays the message Error processing request. 	|
 | Pin change                                	| yes              	| pass    	| low        	| N/A                                            	|
