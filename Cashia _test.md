@@ -21,7 +21,7 @@
 | Changing /update delivery location via Google + 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | UI/Stability of the app                         	| IN PROGRESS      	| N/A     	| N/A        	| N/A                                                                                         	|
 | Notifications                                   	| NO               	| Fail    	| High       	| The app gives an error upon notification entrance                                           	|
-| Validation                                	| Yes              	| pass    	| low        	| The amount validation both takes 2 decimal points as well as applies the mpesa limit. 	|
+| Validation                                	| Yes              	| pass    	| low        	| The amount validation both takes 2 decimal points as well as applies the mpesa limit for oney transactions. 	|
 | App login                                 	| yes              	| pass    	| low        	| N/A                                            	|
 | App logout                                	| yes              	| pass    	| low        	| A user is redirected to the login page.        	|
 
