@@ -15,7 +15,7 @@
 | App Alert                                       	| Yes              	| pass    	| low        	| App requests permission for location like  an alert and also disabling won't affect the app 	|
 |  Search bar                                     	| Yes              	| pass    	| Medium        	| App gives results related to the search successfully tho it lucks autofocus as well as doesn't refresh previous search results.                                       	|
 | Edit profile and information                    	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
-| Product to cart/purchase/Removal from cart      	| Yes              	| Pass    	| Medium        	| The delivery order details is in progress.                                                                                         	|
+| Product to cart/purchase/Removal from cart      	| Yes              	| Pass    	| Medium        	| The delivery order status is in progress.                                                                                         	|
 | Placing a pickup order                          	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Placing a Delivery order                        	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Changing /update delivery location via Google + 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
