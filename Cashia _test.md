@@ -18,7 +18,7 @@
 | Product to cart/purchase/Removal from cart      	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Placing a pickup order                          	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Placing a Delivery order                        	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
-| Placing a Delivery order                        	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
+| Placing a Delivery order status                       	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Changing /update delivery location via Google + 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | UI/Stability of the app                         	| IN PROGRESS      	| N/A     	| N/A        	| N/A                                                                                         	|
 | Notifications                                   	| NO               	| Fail    	| High       	| The app gives an error upon notification entrance                                           	|
