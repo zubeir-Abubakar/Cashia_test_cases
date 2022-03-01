@@ -26,6 +26,7 @@
 | App logout                                	| yes              	| Fail    	| high        	| A user is redirected to the login page as well as token invalid message appears.        	|
 | Adding a product to wish list                            	| yes              	| pass    	| low        	| N/A                                            	|
 | Removing product from wish list (with the warning alert) 	| yes              	| pass    	| low        	| N/A                                            	|
+| App products and products categories visible and interactive 	| yes              	| pass    	| low        	| N/A                                            	|
 
 ## Network Sharing and privacy.
 
