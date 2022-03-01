@@ -9,16 +9,16 @@
 | Cashia app installation                         	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Cashia app uninstall                            	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Order placement                                 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
+| Delivery order status                       	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Wallet actions such as request, send and pay    	| No               	| Fail    	| High       	| App transactions in progress.                                                               	|
 | App interaction/Navigation stability            	| Yes              	| Pass    	| low        	| App doesn't crash upon several navigation rather it slows down                                                  	|
 | App location                                    	| Yes              	| Pass    	| Low        	| Setting location on won't affect the app                                                    	|
 | App Alert                                       	| Yes              	| pass    	| low        	| App requests permission for location like  an alert and also disabling won't affect the app 	|
-|  Search bar                                     	| Yes              	| pass    	| Medium        	| App gives results related to the search successfully tho it lucks autofocus as well as doesn't refresh from previous search history.                                       	|
+|  Search bar                                     	| Yes              	| Fail    	| Medium        	| INPROGRESS for android .                                       	|
 | Edit profile and information                    	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Product to cart/purchase/Removal from cart      	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Placing a pickup order                          	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Placing a Delivery order                        	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
-| Placing a Delivery order status                       	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | Changing /update delivery location via Google + 	| Yes              	| Pass    	| Low        	| N/A                                                                                         	|
 | UI/Stability of the app                         	| IN PROGRESS      	| N/A     	| N/A        	| N/A                                                                                         	|
 | Notifications                                   	| NO               	| Fail    	| High       	| The app gives an error upon notification entrance                                           	|
@@ -35,7 +35,7 @@
 |-------------------------------------------	|------------------	|---------	|------------	|------------------------------------------------	|
 | Link sharing and network sharing          	| Yes              	| Pass    	| Low        	| N/A                                            	|
 | Internet Availability                     	| yes              	| Pass    	| Low        	| N/A                                            	|
-| Internet not available/offline from start 	| Yes              	| Pass    	| medium        	| error processin your request message appears.                                            	|
+| Internet not available/offline from start 	| Yes              	| Pass    	| medium        	| error processing your request message appears.                                            	|
 | Offline in the middle of using app        	| yes              	| Fail    	| High       	| Displays the message Error processing request. 	|
 | Pin for transactions                      	| Yes              	| Fail    	| High       	| Displays the message Error processing request. 	|
 | Pin change                                	| yes              	| pass    	| low        	| N/A                                            	|
